@@ -1,11 +1,8 @@
+[![pages-build-deployment](https://github.com/koydas/roadmap.sh-projects-github-actions-deployment-workflow/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/koydas/roadmap.sh-projects-github-actions-deployment-workflow/actions/workflows/pages/pages-build-deployment)
 # roadmap.sh-projects-github-actions-deployment-workflow
 
-
-
-[![pages-build-deployment](https://github.com/koydas/cookie-consent/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/koydas/cookie-consent/actions/workflows/pages/pages-build-deployment)
-
 #### Where ?
-Visit https://koydas.github.io/cookie-consent
+Visit [https://koydas.github.io/roadmap.sh-projects-github-actions-deployment-workflow/](https://koydas.github.io/roadmap.sh-projects-github-actions-deployment-workflow/)
 
 ### Deployment
 Deployed by Pages from GitHub.
